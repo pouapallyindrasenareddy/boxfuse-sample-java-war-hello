@@ -1,0 +1,9 @@
+sonar.verbose=true
+sonar.organization=indrapro
+sonar.projectKey=indra01-key_indrapro
+sonar.projectName=indrapro
+sonar.launguage=java
+sonar.sourceEncosing:UTF-8
+sonar.sources=
+sonar.java.binaries=target/classes
+sonar.coverage.jacoco.xmlReportPaths=target/site/jacoco.xml

@@ -1,7 +1,7 @@
 sonar.verbose=true
-sonar.organization=indrapro
-sonar.projectKey=indra01-key_indrapro
-sonar.projectName=indrapro
+sonar.organization=nfu-1
+sonar.projectKey=nfu_socity
+sonar.projectName=socity
 
 sonar.language=java
 sonar.sourceEncoding=UTF-8
